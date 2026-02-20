@@ -16,14 +16,14 @@ The project showcases world attractions with search, filtering, and user authent
 - Filtering and sorting functionality  
 - Full-stack collaboration and Git workflow  
 
+<img width="602" height="248" alt="attractions_website" src="https://github.com/user-attachments/assets/07119e83-9133-418b-bed1-cb9bed7c93f2" /> 
+<img width="602" height="207" alt="attractions_website2" src="https://github.com/user-attachments/assets/d3e9436b-cdf9-4509-aad0-a752fa37dc3e" />
+
 ## 🛠 Tech Stack
 - Frontend: React  
 - Backend: Node.js, Express  
 - Database: MongoDB  
 - Tools: Git, GitHub  
-
-<img width="602" height="207" alt="attractions_website2" src="https://github.com/user-attachments/assets/d3e9436b-cdf9-4509-aad0-a752fa37dc3e" />
-<img width="602" height="248" alt="attractions_website" src="https://github.com/user-attachments/assets/07119e83-9133-418b-bed1-cb9bed7c93f2" /> 
 
 ## 📦 Installation
 
