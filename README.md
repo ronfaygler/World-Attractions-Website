@@ -94,7 +94,8 @@ cd client
 npm start
 ```
 
-📫 Contact
+### 📫 Contact
+
 Email: ronfaygler@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/ronfaygler
